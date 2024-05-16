@@ -2,5 +2,7 @@ CREATE TABLE Departamento (
   id_dept VARCHAR(6) PRIMARY KEY,
   nome_dept VARCHAR(30),
   chefe_dept VARCHAR(30),
+  id_chefe INT,
+  FOREIGN KEY (id_chefe) REFERENCES Professor(prof_id),
   FOREIGN KEY (chefe_dept) REFERENCES Professor(nome)
 );
