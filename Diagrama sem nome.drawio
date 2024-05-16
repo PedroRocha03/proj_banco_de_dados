@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T00:15:36.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Rmz3AjU-o7YGNIuyWPc1" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T00:38:29.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="sJMuKLfwoaMCfYa8N5ws" version="24.4.2" type="github">
   <diagram name="Page-1" id="6133507b-19e7-1e82-6fc7-422aa6c4b21f">
     <mxGraphModel dx="1100" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
             <mxPoint x="540" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="78961159f06e98e8-27" value="(abc) nome&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;varchar(30)&lt;div&gt;(abc) id_curso&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;varchar(6)&lt;/div&gt;&lt;div&gt;(123) tot_cred&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; numeric(3)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-17" vertex="1">
+        <mxCell id="78961159f06e98e8-27" value="(abc) nome&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;varchar(30)&lt;div&gt;(abc) id_curso&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;varchar(6)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-17" vertex="1">
           <mxGeometry y="60" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RyOZ0NrASkdXas4JCYKa-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -45,7 +45,7 @@
         <mxCell id="Fp-7Isr_xplhYbf5Isc3-3" value="" style="line;html=1;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Fp-7Isr_xplhYbf5Isc3-1" vertex="1">
           <mxGeometry y="52" width="185" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="Fp-7Isr_xplhYbf5Isc3-4" value="(abc) nome_curso&amp;nbsp; &amp;nbsp; &amp;nbsp;varchar(30)&lt;div&gt;(abc) id_dept&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; varchar(6)&lt;/div&gt;&lt;div&gt;(123) creditos&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; numeric(2)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Fp-7Isr_xplhYbf5Isc3-1" vertex="1">
+        <mxCell id="Fp-7Isr_xplhYbf5Isc3-4" value="(abc) nome_curso&amp;nbsp; &amp;nbsp; &amp;nbsp;varchar(30)&lt;div&gt;(abc) id_dept&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; varchar(6)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Fp-7Isr_xplhYbf5Isc3-1" vertex="1">
           <mxGeometry y="60" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fp-7Isr_xplhYbf5Isc3-5" value="Departamento" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
