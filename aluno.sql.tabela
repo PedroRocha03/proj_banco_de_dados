@@ -1,0 +1,6 @@
+CREATE TABLE Aluno (
+  aluno_id VARCHAR(9) PRIMARY KEY, 
+  nome VARCHAR(30),
+  id_curso VARCHAR(6),
+  FOREIGN KEY (id_curso) REFERENCES Curso(id_curso)
+);
