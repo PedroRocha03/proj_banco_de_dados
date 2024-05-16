@@ -1,4 +1,4 @@
-CREATE TABELA Professor (
+CREATE TABLE Professor (
   prof_id INT PRIMARY KEY,
   nome TEXT,
   id_dept TEXT,
