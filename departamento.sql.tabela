@@ -1,0 +1,6 @@
+CREATE TABLE Departamento (
+  id_dept VARCHAR(6) PRIMARY KEY,
+  nome_dept VARCHAR(30),
+  chefe_dept VARCHAR(30),
+  FOREIGN KEY (chefe_dept) REFERENCES Professor(nome)
+);
