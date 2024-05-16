@@ -1,5 +1,5 @@
 CREATE TABLE Departamento (
-  id_dept INT PRIMARY KEY,
+  id_dept TEXT PRIMARY KEY,
   nome_dept TEXT,
   chefe_dept TEXT,
   id_chefe INT,
