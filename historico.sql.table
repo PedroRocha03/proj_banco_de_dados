@@ -1,0 +1,10 @@
+CREATE TABLE Historico (
+  id_historico TEXT PRIMARY KEY,
+  aluno_id TEXT,
+  id_disc TEXT,
+  semestre INT,
+  ano INT,
+  nota DECIMAL(4,2),
+  FOREIGN KEY (aluno_id) REFERENCES Aluno(aluno_id),
+  FOREIGN KEY (id_disc) REFERENCES Disciplinas(id_disc)
+);
