@@ -1,0 +1,6 @@
+CREATE TABLE TCC (
+  id_tcc INT PRIMARY KEY,
+  orientador_id INT,
+  titulo TEXT,
+  FOREIGN KEY (orientador_id) REFERENCES Professores(prof_id)
+);
