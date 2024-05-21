@@ -88,4 +88,3 @@ insert into Aluno (aluno_id, nome, id_curso) values ('EN12115', 'Anatola', 'LELe
 insert into Aluno (aluno_id, nome, id_curso) values ('BI22210', 'Lanny', 'CIBa100');
 insert into Aluno (aluno_id, nome, id_curso) values ('ME12020', 'Karolina', 'ADAd129');
 insert into Aluno (aluno_id, nome, id_curso) values ('PS12024', 'Nerti', 'MAAn117');
-insert into Aluno (aluno_id, nome, id_curso) values ('AR12127', 'Gloriane', 'ENEn156');
