@@ -1,6 +1,0 @@
-CREATE TABLE Aluno (
-  aluno_id TEXT PRIMARY KEY, 
-  nome TEXT,
-  id_curso TEXT,
-  FOREIGN KEY (id_curso) REFERENCES Curso(id_curso)
-);
