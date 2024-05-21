@@ -1,7 +1,0 @@
-CREATE TABLE Grupo_TCC (
-  id_grupo INT PRIMARY KEY,
-  id_tcc INT, 
-  aluno_id TEXT,
-  FOREIGN KEY (id_tcc) REFERENCES TCC(id_tcc),
-  FOREIGN KEY (aluno_id) REFERENCES Aluno(aluno_id)
-);
