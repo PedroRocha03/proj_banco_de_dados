@@ -1,0 +1,27 @@
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI10', 'Algoritmos e Estruturas de Dados', 'CI', 748146844);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI11', 'Introdução à Programação', 'MA', 377276899);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI12', 'Linguagens de Programação', 'LE', 539191469);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI13', 'Sistemas Operacionais', 'AS', 683936993);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI14', 'Redes de Computadores', 'PS', 816398345);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI15', 'Banco de Dados', 'BI', 678591153);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI16', 'Engenharia de Software', 'EN', 292847945);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI17', 'Inteligência Artificial', 'AR', 399664635);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI18', 'Segurança da Informação', 'DI', 332515345);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI19', 'Programação Web', 'ME', 778873933);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI20', 'Análise e Projeto de Sistemas', 'EC', 121854349);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI21', 'Matemática Discreta', 'CI', 211513559);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI22', 'Estrutura de Dados Avançada', 'MA', 168248723);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI23', 'Computação Gráfica', 'LE', 681757547);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI24', 'Sistemas Distribuídos', 'AS', 613843612);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI25', 'Compiladores', 'PS', 295315977);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI26', 'Mineração de Dados', 'BI', 843676127);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI27', 'Desenvolvimento de Jogos', 'EN', 176183812);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI28', 'Lógica Computacional', 'AR', 987163614);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI29', 'Computação em Nuvem', 'DI', 539183549);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI30', 'Robótica', 'ME', 335511351);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI31', 'Machine Learning', 'EC', 224631614);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI32', 'Gestão de Projetos de TI', 'CI', 428762395);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI33', 'Computação Bioinspirada', 'MA', 431592989);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI34', 'Realidade Virtual', 'LE', 295284587);
+insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI35', 'Ética e Tecnologia', 'AS', 758752149);
+
