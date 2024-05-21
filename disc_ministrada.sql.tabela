@@ -1,9 +1,0 @@
-CREATE TABLE Disciplina_ministrada (
-  id_ministracao TEXT PRIMARY KEY,
-  prof_id INT,
-  id_disc TEXT,
-  semestre INT,
-  ano INT,
-  FOREIGN KEY (prof_id) REFERENCES Professor(prof_id),
-  FOREIGN KEY (id_disc) REFERENCES Disciplinas(id_disc)
-);
