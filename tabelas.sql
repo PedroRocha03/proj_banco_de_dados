@@ -34,14 +34,13 @@ CREATE TABLE Aluno (
 CREATE TABLE Disciplinas (
   id_disc TEXT PRIMARY KEY,
   nome_disc TEXT,
-  id_curso TEXT,
+  id_dept TEXT,
   prof_id INT,
-  FOREIGN KEY (id_curso) REFERENCES Curso(id_curso),
+  FOREIGN KEY (id_dept) REFERENCES Departamento(id_dept),
   FOREIGN KEY (prof_id) REFERENCES Professor(prof_id)
 );
 
 CREATE TABLE Disciplina_ministrada (
-  id_ministracao TEXT PRIMARY KEY,
   prof_id INT,
   id_disc TEXT,
   semestre INT,
@@ -51,7 +50,6 @@ CREATE TABLE Disciplina_ministrada (
 );
 
 CREATE TABLE Matriz (
-  id_matriz TEXT PRIMARY KEY,
   id_curso TEXT,
   id_disc TEXT,
   semestre INT,
@@ -61,7 +59,6 @@ CREATE TABLE Matriz (
 );
 
 CREATE TABLE Historico (
-  id_historico TEXT PRIMARY KEY,
   aluno_id TEXT,
   id_disc TEXT,
   semestre INT,
@@ -79,7 +76,6 @@ CREATE TABLE TCC (
 );
 
 CREATE TABLE Grupo_TCC (
-  id_grupo INT PRIMARY KEY,
   id_tcc INT, 
   aluno_id TEXT,
   FOREIGN KEY (id_tcc) REFERENCES TCC(id_tcc),
