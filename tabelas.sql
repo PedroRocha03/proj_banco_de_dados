@@ -54,7 +54,7 @@ CREATE TABLE Matriz (
   id_disc TEXT,
   semestre INT,
   ano INT,
-  FOREIGN KEY (id_curso) REFERENCES Cursos(id_curso),
+  FOREIGN KEY (id_curso) REFERENCES Curso(id_curso),
   FOREIGN KEY (id_disc) REFERENCES Disciplinas(id_disc)
 );
 
@@ -72,7 +72,7 @@ CREATE TABLE TCC (
   id_tcc INT PRIMARY KEY,
   orientador_id INT,
   titulo TEXT,
-  FOREIGN KEY (orientador_id) REFERENCES Professores(prof_id)
+  FOREIGN KEY (orientador_id) REFERENCES Professor(prof_id)
 );
 
 CREATE TABLE Grupo_TCC (
