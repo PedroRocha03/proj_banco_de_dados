@@ -1,8 +1,0 @@
-CREATE TABLE Disciplinas (
-  id_disc TEXT PRIMARY KEY,
-  nome_disc TEXT,
-  id_curso TEXT,
-  prof_id INT,
-  FOREIGN KEY (id_curso) REFERENCES Curso(id_curso),
-  FOREIGN KEY (prof_id) REFERENCES Professor(prof_id)
-);
