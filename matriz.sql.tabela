@@ -1,9 +1,0 @@
-CREATE TABLE Matriz (
-  id_matriz TEXT PRIMARY KEY,
-  id_curso TEXT,
-  id_disc TEXT,
-  semestre INT,
-  ano INT,
-  FOREIGN KEY (id_curso) REFERENCES Cursos(id_curso),
-  FOREIGN KEY (id_disc) REFERENCES Disciplinas(id_disc)
-);
