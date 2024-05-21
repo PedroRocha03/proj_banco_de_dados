@@ -1,0 +1,11 @@
+insert into Departamento (id_dept, nome_dept, id_chefe) values ('CI', 'Departamento de Ciências da Computação', '577569836');
+insert into Departamento (id_dept, nome_dept, id_chefe) values ('MA', 'Departamento de Matemática', '875756749');
+insert into Departamento (id_dept, nome_dept, id_chefe) values ('LE', 'Departamento de Letras', '683936993');
+insert into Departamento (id_dept, nome_dept, id_chefe) values ('AS', 'Departamento de Administração', '579285691');
+insert into Departamento (id_dept, nome_dept, id_chefe) values ('PS', 'Departamento de Psicologia', '748146844');
+insert into Departamento (id_dept, nome_dept, id_chefe) values ('BI', 'Departamento de Biologia', '355125729');
+insert into Departamento (id_dept, nome_dept, id_chefe) values ('EN', 'Departamento de Engenharias', '962587571');
+insert into Departamento (id_dept, nome_dept, id_chefe) values ('AR', 'Departamento de Artes Visuais', '624798529');
+insert into Departamento (id_dept, nome_dept, id_chefe) values ('DI', 'Departamento de Direito', '377862678');
+insert into Departamento (id_dept, nome_dept, id_chefe) values ('ME', 'Departamento de Medicina', '168248723');
+insert into Departamento (id_dept, nome_dept, id_chefe) values ('EC', 'Departamento de Economia', '487792796');
