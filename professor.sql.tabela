@@ -1,6 +1,0 @@
-CREATE TABLE Professor (
-  prof_id INT PRIMARY KEY,
-  nome TEXT,
-  id_dept TEXT,
-  FOREIGN KEY (id_dept) REFERENCES Departamento(id_dept)
-);
