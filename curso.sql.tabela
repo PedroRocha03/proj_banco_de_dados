@@ -1,6 +1,0 @@
-CREATE TABLE Curso (
-  id_curso TEXT PRIMARY KEY,
-  nome_curso TEXT,
-  id_dept TEXT,
-  FOREIGN KEY (id_dept) REFERENCES Departamento(id_dept)
-);
