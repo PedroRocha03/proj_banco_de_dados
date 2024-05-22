@@ -23,11 +23,11 @@ ALTER TABLE Disciplinas
 ADD CONSTRAINT prof_id
 FOREIGN KEY (prof_id) REFERENCES Professor(prof_id);
 
-ALTER TABLE Disciplinas_ministrada
+ALTER TABLE Disciplina_ministrada
 ADD CONSTRAINT prof_id
 FOREIGN KEY (prof_id) REFERENCES Professor(prof_id);
 
-ALTER TABLE Disciplinas_ministrada
+ALTER TABLE Disciplina_ministrada
 ADD CONSTRAINT id_disc
 FOREIGN KEY (id_disc) REFERENCES Disciplinas(id_disc);
 
