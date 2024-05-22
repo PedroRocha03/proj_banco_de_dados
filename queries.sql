@@ -10,6 +10,13 @@ FROM
 WHERE
     dm.prof_id = "insira o id do professor";
 
+-- Professores que são chefes de um departamento e seus respectivos nomes
+
+SELECT P.nome AS nome_professor, D.nome_dept AS nome_departamento
+FROM Professor AS P
+JOIN Departamento AS D ON P.id_dept = D.id_dept
+WHERE P.prof_id = D.id_chefe;
+
 -- Grupo de TCC de tais alunos e seu professor orientador
 
 SELECT
