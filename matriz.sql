@@ -69,7 +69,7 @@ insert into	Matriz	(id_curso,	id_disc,	semestre,	ano)	values	('ADAd129',	'CI77',
 insert into	Matriz	(id_curso,	id_disc,	semestre,	ano)	values	('ADAd129',	'CI78', 	2,	2023);
 insert into	Matriz	(id_curso,	id_disc,	semestre,	ano)	values	('ADAd129',	'CI79', 	1,	2022);
 insert into	Matriz	(id_curso,	id_disc,	semestre,	ano)	values	('ADAd129',	'CI80', 	1,	2024);
-insert into	Matriz	(id_curso,	id_disc,	semestre,	ano)	values	('ENEn156',	'CI81', 	2,	2024);
+insert into	Matriz	(id_curso,	id_disc,	semestre,	ano)	values	('ENEn156',	'CI81', 	2,	2023);
 insert into	Matriz	(id_curso,	id_disc,	semestre,	ano)	values	('ENEn156',	'CI82', 	2,	2024);
 insert into	Matriz	(id_curso,	id_disc,	semestre,	ano)	values	('ENEn156',	'CI83', 	1,	2022);
 insert into	Matriz	(id_curso,	id_disc,	semestre,	ano)	values	('ENEn156',	'MA10', 	2,	2023);
