@@ -1,0 +1,16 @@
+insert into Historico (aluno_id, id_disc, semestre, ano, nota) values ('AR22422', 'CI81', 2, 2023, 8.00);
+insert into Historico (aluno_id, id_disc, semestre, ano, nota) values ('AR22422', 'CI82', 2, 2024, 6.00);
+insert into Historico (aluno_id, id_disc, semestre, ano, nota) values ('CI12228', 'CI46', 2, 2022, 9.00);
+insert into Historico (aluno_id, id_disc, semestre, ano, nota) values ('CI12228', 'CI47', 1, 2024, 10.00);
+insert into Historico (aluno_id, id_disc, semestre, ano, nota) values ('EC22410', 'CI28', 2, 2022, 4.00);
+insert into Historico (aluno_id, id_disc, semestre, ano, nota) values ('EC22410', 'CI29', 1, 2023, 5.00);
+insert into Historico (aluno_id, id_disc, semestre, ano, nota) values ('CI12412', 'CI10', 1, 2022, 7.00);
+insert into Historico (aluno_id, id_disc, semestre, ano, nota) values ('CI12412', 'CI11', 2, 2023, 8.00);
+insert into Historico (aluno_id, id_disc, semestre, ano, nota) values ('EN22113', 'CI64', 2, 2024, 9.00);
+insert into Historico (aluno_id, id_disc, semestre, ano, nota) values ('EN22113', 'CI65', 2, 2023, 9.00);
+insert into Historico (aluno_id, id_disc, semestre, ano, nota) values ('ME12426', 'MA10', 2, 2023, 8.00);
+insert into Historico (aluno_id, id_disc, semestre, ano, nota) values ('ME12426', 'MA11', 1, 2024, 7.00);
+insert into Historico (aluno_id, id_disc, semestre, ano, nota) values ('DI22312', 'CI48', 2, 2023, 5.00);
+insert into Historico (aluno_id, id_disc, semestre, ano, nota) values ('DI22312', 'CI49', 2, 2024, 6.00);
+insert into Historico (aluno_id, id_disc, semestre, ano, nota) values ('PS22019', 'CI12', 1, 2024, 3.00);
+insert into Historico (aluno_id, id_disc, semestre, ano, nota) values ('PS22019', 'CI13', 2, 2022, 2.00);
