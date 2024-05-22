@@ -66,13 +66,6 @@ insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI74', '
 insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI75', 'Meteorologia', 'EC', '224631614');
 insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI76', 'Oceanografia', 'AS', '748146844');
 insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI77', 'Química Industrial', 'BI', '377276899');
-insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI78', 'Engenharia Civil', 'AS', '539191469');
-insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI79', 'Engenharia Elétrica', 'DI', '683936993');
-insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI80', 'Engenharia Mecânica', 'EC', '816398345');
-insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI81', 'Engenharia Química', 'PS', '678591153');
-insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI82', 'Engenharia de Produção', 'CI', '292847945');
-insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('CI83', 'Engenharia de Alimentos', 'AR', '399664635');
-insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('MA10', 'Engenharia de Software', 'DI', '332515345');
 insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('MA11', 'Sistemas de Informação', 'DI', '778873933');
 insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('MA12', 'Ciência da Computação', 'MA', '121854349');
 insert into Disciplinas (id_disc, nome_disc, id_dept, prof_id) values ('MA13', 'Engenharia da Computação', 'AS', '211513559');
