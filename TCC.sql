@@ -10,9 +10,3 @@ insert into TCC (id_tcc, prof_id, titulo) values ('8462', 332515345, 'Desenvolvi
 insert into TCC (id_tcc, prof_id, titulo) values ('4139', 778873933, 'Segurança da Informação em Empresas');
 insert into TCC (id_tcc, prof_id, titulo) values ('6025', 121854349, 'Aplicações de Inteligência Artificial em Saúde');
 insert into TCC (id_tcc, prof_id, titulo) values ('8743', 211513559, 'Desenvolvimento de APIs RESTful');
-insert into TCC (id_tcc, prof_id, titulo) values ('2356', 168248723, 'Gestão de Projetos de TI');
-insert into TCC (id_tcc, prof_id, titulo) values ('9812', 681757547, 'Desenvolvimento de Softwares Educacionais');
-insert into TCC (id_tcc, prof_id, titulo) values ('7463', 613843612, 'Sistemas de Automação Industrial');
-insert into TCC (id_tcc, prof_id, titulo) values ('5209', 295315977, 'Aplicações de Sensores em Agricultura de Precisão');
-insert into TCC (id_tcc, prof_id, titulo) values ('3147', 843676127, 'Desenvolvimento de Assistentes Pessoais com IA');
-insert into TCC (id_tcc, prof_id, titulo) values ('6890', 176183812, 'Reconhecimento de Padrões em Imagens');
