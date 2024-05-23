@@ -20,7 +20,7 @@ FROM
     Disciplina_ministrada dm
     JOIN Disciplinas d ON dm.id_disc = d.id_disc
 WHERE
-    dm.prof_id = "insira o id do professor";
+    dm.prof_id = 'insira o id do professor';
 
 -- Professores que são chefes de um departamento e seus respectivos nomes
 
@@ -43,4 +43,4 @@ FROM
     JOIN Aluno a ON ta.aluno_id = a.aluno_id
     JOIN Professor p ON t.orientador_id = p.prof_id
 WHERE
-    t.id_tcc = "insira o id do tcc";
+    t.id_tcc = 'insira o id do tcc';
