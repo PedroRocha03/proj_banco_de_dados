@@ -6,9 +6,9 @@ SELECT
 FROM 
   Historico H
   JOIN Aluno A ON H.aluno_id = A.aluno_id
-  JOIN Disciplina D ON H.id_disc = D.id_disc
+  JOIN Disciplinas D ON H.id_disc = D.id_disc
 WHERE
-  H.aluno_id = 'inserir id do aluno'
+  H.aluno_id = 'inserir id do aluno';
 
 -- Disciplinas ministradas pelo professor de escolha (pelo id) 
 SELECT
