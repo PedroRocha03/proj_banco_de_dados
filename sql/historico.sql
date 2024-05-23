@@ -125,7 +125,7 @@ INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('EN22322',
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('PS22118','CI34',2,2022,3.60);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('LE22216','MA23',1,2023,8.80);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('MA12023','CI46',1,2023,6.10);
-INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('ME12128','CI10',2,2022,6.10);
+INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('ME12128','MA10',2,2022,6.10);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('AS12222','CI17',1,2022,1.50);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('DI12227','CI34',1,2024,5.20);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('LE22322','MA23',1,2022,3.80);
@@ -145,7 +145,7 @@ INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('EN22322',
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('PS22118','CI35',2,2022,3.60);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('LE22216','MA22',1,2023,8.80);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('MA12023','CI47',1,2023,6.10);
-INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('ME12128','CI11',2,2022,6.10);
+INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('ME12122','CI11',2,2022,6.10);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('AS12222','CI11',1,2022,1.50);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('DI12227','CI35',1,2024,5.20);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('LE22322','MA22',1,2022,3.80);
@@ -158,14 +158,14 @@ INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('AR12310',
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('DI22215','CI11',2,2022,7.40);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('EN12028','CI17',1,2022,1.80);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('MA22210','CI35',1,2024,9.20);
-INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('ME12128','MA21',1,2022,1.90);
+INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('ME12122','MA21',1,2022,1.90);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('BI22417','CI48',1,2023,3.90);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('AS12127','CI12',1,2024,6.40);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('EN22322','CI17',2,2022,8.70);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('PS22118','CI36',2,2022,3.60);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('LE22216','MA21',1,2023,8.80);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('MA12023','CI48',1,2023,6.10);
-INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('ME12128','CI12',2,2022,6.10);
+INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('ME12122','CI12',2,2022,6.10);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('AS12222','CI17',1,2022,1.50);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('DI12227','CI36',1,2024,5.20);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('LE22322','MA21',1,2022,3.80);
