@@ -1,3 +1,15 @@
+-- Histórico de alunos retornando nome, aluno_id, id_disc, nome_disc, semestre, ano e nota (pelo id do aluno)
+SELECT 
+  A.aluno_id AS id_aluno, A.nome AS nome_aluno, 
+  H.id_disc AS id_disc, D.nome_disc AS nome_disc, 
+  H.semestre AS semestre, H.ano AS ano, H.nota as nota
+FROM 
+  Historico H
+  JOIN Aluno A ON H.aluno_id = A.aluno_id
+  JOIN Disciplina D ON H.id_disc = D.id_disc
+WHERE
+  H.aluno_id = 'inserir id do aluno'
+
 -- Disciplinas ministradas pelo professor de escolha (pelo id) 
 SELECT
     d.id_disc AS id_disc,
