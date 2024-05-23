@@ -10,4 +10,5 @@ As tabelas estão no arquivo tabelas.sql, onde é apenas copiar todas e executar
 
 Os nossos dados foram gerados a partir de um Excel e usando o Mockaroo como complemento.
 
-![Diagrama drawio](https://github.com/PedroRocha03/proj_banco_de_dados/assets/161655186/8d935deb-b527-4cae-8d94-37513588c9ca)
+![Diagrama sem nome drawio](https://github.com/PedroRocha03/proj_banco_de_dados/assets/161655186/56e1d4de-89ef-4898-97e5-2aa55a086d68)
+
