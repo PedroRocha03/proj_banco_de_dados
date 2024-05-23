@@ -158,7 +158,7 @@ INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('AR12310',
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('DI22215','CI11',2,2022,7.40);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('EN12028','CI17',1,2022,1.80);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('MA22210','CI35',1,2024,9.20);
-INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('ME12122','MA21',1,2022,1.90);
+INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('ME12122','CI21',1,2022,1.90);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('BI22417','CI48',1,2023,3.90);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('AS12127','CI12',1,2024,6.40);
 INSERT INTO Historico (aluno_id, id_disc, semestre, ano, nota) VALUES('EN22322','CI17',2,2022,8.70);
